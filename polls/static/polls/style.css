@@ -1,0 +1,13 @@
+
+
+li a {
+    color: white;
+}
+
+
+body {
+    font-family: verdana;
+    font-size: 25px;
+    padding: 200px;
+    background: white url("images/background_image.jpeg") no-repeat;
+}
